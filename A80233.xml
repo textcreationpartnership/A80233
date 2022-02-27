@@ -1,0 +1,625 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The comical and tragical history of Fortunatus wherein is contained his birth, travels, adventures, last will and testament to his two sons, to whom he bequeathed his purse and wishing-cap: Together with their lives and death. Abbreviated for the good and benefit of young men and women, whose impatience will not allow them to read the larger volume. The whole being illustrated with divers cuts suitable to the history. Licens'd and enter'd according to order.</title>
+            <title>Fortunatus. Abridgement. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80233</idno>
+            <idno type="STC">Wing C5538C</idno>
+            <idno type="STC">ESTC R226218</idno>
+            <idno type="EEBO-CITATION">99895658</idno>
+            <idno type="PROQUEST">99895658</idno>
+            <idno type="VID">153134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153134)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2350:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The comical and tragical history of Fortunatus wherein is contained his birth, travels, adventures, last will and testament to his two sons, to whom he bequeathed his purse and wishing-cap: Together with their lives and death. Abbreviated for the good and benefit of young men and women, whose impatience will not allow them to read the larger volume. The whole being illustrated with divers cuts suitable to the history. Licens'd and enter'd according to order.</title>
+                  <title>Fortunatus. Abridgement. English.</title>
+               </titleStmt>
+               <extent>[24] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by and for C. Brown, and are to be sold by the book-sellers of Pye-corner and London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153134:1"/>
+            <pb facs="tcp:153134:1"/>
+            <p>THE Comical and Tragical Hiſtory OF FORTUNATUS: Wherein is contained his Birth, Travels, Adven<g ref="char:EOLhyphen"/>tures, laſt Will and Teſtament to his two Sons, to whom he bequeathed his PURSE and WISHING-CAP: Toge<g ref="char:EOLhyphen"/>ther with their Lives and Death.</p>
+            <p>
+               <hi>Abbreviated for the Good and Benefit of young Men and Women, whoſe Impa<g ref="char:EOLhyphen"/>tience will not allow them to read the larger Volume. The whole being Illuſtra<g ref="char:EOLhyphen"/>ted with divers <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the Hiſtory.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of a gentleman and lady</figDesc>
+            </figure>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licens'd and Enter'd according to Order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by and for <hi>C. Brown,</hi> and are to be ſold by the Book-ſellers of <hi>Pye-corner</hi> and <hi>London-bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153134:2"/>
+            <head>The Hiſtory of <hi>FORT<g ref="char:V">Ʋ</g>NAT<g ref="char:V">Ʋ</g>S.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>Chap. I.</head>
+               <argument>
+                  <p>Of <hi>Fortunatus</hi>'s Parentage and Birth in the famous Iſland of <hi>Cy<g ref="char:EOLhyphen"/>prus;</hi> How growing up in Learning and Knowledge, his Father, by his Laviſhneſs, was reduced to Poverty; and he going to ſeek his Fortune, was entertain'd by the Earl of <hi>Flanders,</hi> in his return from <hi>Jeruſalem;</hi> how the Servants envyed him for the Love their Lord bore him: with the Stratagem they uſed to make him ſecretly withdraw from his Service, to the great Grief of the Earl.</p>
+               </argument>
+               <figure>
+                  <figDesc>woodcut of Fortunatus boarding a ship</figDesc>
+               </figure>
+               <p>IN the renowned City of <hi>Famogoſta,</hi> in the pleaſant Iſland of <hi>Cyprus,</hi> in times paſt, there dwelt one <hi>Thedorius,</hi> deſcended of noble Pa<g ref="char:EOLhyphen"/>rentage, who left him a great Eſtate, but being brought up to no<g ref="char:EOLhyphen"/>thing but Pleaſure, he purſued it ſo far in all manner of Sports and Riots, that it conſum'd a-pace: his friends being grieved hereat, thought of no better way to check his proceedings, and bring him with<g ref="char:EOLhyphen"/>in bounds of Moderation, than by matching him to ſome diſcreet Wo<g ref="char:EOLhyphen"/>man, whoſe Wiſdom and good Humour might bring him to live ſoberly and fr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gally. This being, concluded on, contrary to his Knowledge, upon diligent ſearch, they found one, ſuitable to what they had propoſed; in the City of <hi>Nicovia,</hi> a virtuous young Virgin, Daughter to a Merchant, rich and beautiful, whoſe name was <hi>Grati<g ref="char:EOLhyphen"/>ana;</hi> and propoſing it to him, with many Reaſons and Arguments, how much it would be for his good, he reſolved to viſit her, and liking
+<pb facs="tcp:153134:2"/> her comely ſhape, good features, but above all, her modeſt carriage, and witty expreſſions ſuiting his Humour, after a few months Court<g ref="char:EOLhyphen"/>ſhip, they were married in ſplended manner, moſt of the principal Men of either City being at the Wedding, who gave large gifts, as it is the Cuſtom, to the Bride and Bridegroom; and ſo for many years they lived in Content and great Felicity, in which ſpace they had a Son whom they named <hi>Fortunatus,</hi> at whoſe Chriſtening an old Wo<g ref="char:EOLhyphen"/>man taken to be a Propheteſs, came in and uttered theſe Words:</p>
+               <lg>
+                  <l>
+                     <hi>The Child is Fortune's Darling, he ſhall ſhare,</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nſought, thoſe Riches which ſhe will prepare;</hi>
+                  </l>
+                  <l>
+                     <hi>To Travel he his Thoughts full ſoon will bend;</hi>
+                  </l>
+                  <l>
+                     <hi>Though croſs'd in ſome, yet all ſhall happy end.</hi>
+                  </l>
+               </lg>
+               <p>This was noted of many but more particularly when the Succeſs an<g ref="char:EOLhyphen"/>ſwered her Prediction. As he grew up, his Father, not be reſtrain<g ref="char:EOLhyphen"/>ed by the tears and intreaties of his Wife, ſquandred away all his Pa<g ref="char:EOLhyphen"/>trimony; which much grieved <hi>Fortunatus,</hi> tho' he ſaw no way to re<g ref="char:EOLhyphen"/>dreſs it; and his Father too late ſeeing his Folly, fell into a deep me<g ref="char:EOLhyphen"/>lancholy, often ſighing, and ſhedding Tears, which ſo afflicted his Son, that thinking he might have done ſomething that grieved him, he came and kneel'd before him, entreating to know what cauſed his Afflictions, and if he had contributed towards them, he would amend, and do a<g ref="char:EOLhyphen"/>ny thing that might be pleaſing in his ſight? But the ſorrowful Fa<g ref="char:EOLhyphen"/>ther ſighing, told him, He had been very dutiful, which was the greateſt comfort he had; yet being afflicted with Poverty, which had brought him to be deſpiſed by his Inferiours, it much afflicted him. Upon this <hi>Fortunatus</hi> begged leave to rid him of the charge he put him to, by ſuffering him to travel, not doubting, as he ſaid, con<g ref="char:EOLhyphen"/>ſidering his Education, but he ſhould ſhift for himſelf; and Fortune might ſo befriend him, and enable him to do for him and his Mother, who had been ſo tender, and gave him ſuch liberal Education. His Father eaſily conſented, but his Mother not without great Reluctancy; but finding there was a neceſſity for it, with many tender embraces they parted. <hi>Fortunatus</hi> having the World to ramble in, made to the Sea, and at the next Haven found a great many armed Men landed, which at the firſt made him ſtart, as ſuppoſing it an Invaſion of the Iſland; but he upon enquiry, found it was <hi>Baldwin,</hi> Earl of <hi>Flanders,</hi> who had put on ſhoar to refreſh him, in his return from the Wars againſt the Turks and Sarazens in the <hi>Holy Land;</hi> he took courage, and kneeling before the Earl, offer'd his Service, telling him he was put forth to ſeek his Fortune, and that he would be very ſubſervient to his Commands. The Earl eying him, and perceiving
+<pb facs="tcp:153134:3"/> him a very promiſing Youth, of a comely Perſonage, after a little en<g ref="char:EOLhyphen"/>quiry into the Circumſtances of his Parentage and former Life, he made him his chief Servant; and ſo well he behaved himſelf, that he gained this great Lord's entire Affection, and ſo departed with him in the Gally to the next Port, which was the famous City of <hi>Venice,</hi> built in a Marſh in the Sea, about three Leagues from the main Land, and deſended from the raging of the Ocean with mighty Banks and monſterous Pits; through whole Streets run ſeveral Chanels, ſo that great Boats and Lighters came with Goods and Merchandize to the Doors of their Houſes; <hi>Fortunatus</hi> knew the Language of this Country, which he had learn'd from a Venetion in his own; ſo that meeting with divers Merchants there, he bought up, by his Lord's Order, ſtore of Jewels and other rich Merchandize, which wonderfully pleaſed him, the which he intended to beſtow upon the Duke of <hi>Cleve</hi>'s Daughter to whom he was contracted (before his going to the War) and at his return deſigned to marry; and at this Marriage being Juſts and Turnaments, the Earl, to encourage his Servants to do well, ſet up a Jewel valued at three hundred Crowns, to thoſe that ſhould overcome, after the Nobles and Knights had ended their Debates: <hi>Fortunatus</hi> carried the Prize from them all, which made 'em greatly envy him, and the more, becauſe a new Comer ſhould have the advantage of their Lord's Favour; and ſo they con<g ref="char:EOLhyphen"/>ſulted together to find out a Contrivance to remove him; which they effected by this Stratagem, one <hi>Robert,</hi> an old Servant, came to him as he was reading, and told him, that their Lord being to depart and leave his Bride, was by reaſon of her Beauty ſo jealous, that he had ordered Surgeons to come the next morning, to ſecure himſelf of his Servants, by gelding them. This ſo terrified <hi>Fortunatus</hi> (the Man urging he reveal'd this in Good-will to him) that without fur<g ref="char:EOLhyphen"/>ther conſideration he beſought him to help him to make his Eſcape for he would not be ſo ſerved for his Lord's Earldom<g ref="char:punc">▪</g> 
+                  <hi>Robert</hi> obſerving this, told him he was loath to part with him; but if he would go, he de<g ref="char:EOLhyphen"/>ſired to know where he would reſide that when the reſt were gelded, and his Lords Jealouſie over, he might return to his Service again, and very probably eſcape: But he ſaid, he would not return again, whate<g ref="char:EOLhyphen"/>ver betide him; ſo getting a Horſe (he was lead by <hi>Robert,</hi> who inward<g ref="char:EOLhyphen"/>ly was pleaſed, and laughed in his ſleeve at the Fallacy he had put up<g ref="char:EOLhyphen"/>on him) and being without the Gate, rode away with all the ſpeed he could; never looking behind him, till he was many Miles from the Palace.</p>
+               <p>The Earl, at his return miſſing <hi>Fortunatus,</hi> made great enquiry
+<pb facs="tcp:153134:3"/> for him; but the Servants utterly denyed they knew what was be<g ref="char:EOLhyphen"/>come of him, then he asked his Lady, whether ſhe had given him a<g ref="char:EOLhyphen"/>ny cauſe of Offence; but ſhe was altogether ignorant of any ſuch thing, ſo he was forced to content himſelf, though much againſt his will, ſaying, However he ſhould at one time or other find it out, and he would ſeverely puniſh the Occaſioners of it; which made <hi>Ro<g ref="char:EOLhyphen"/>bert,</hi> who had contrived his flight much affraid, leſt he ſhould return, and make a diſcovery of what Stratagem had been uſed, to cauſe his abſenting his Lord's Service.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Chap. II.</head>
+               <argument>
+                  <p>How travelling through many Countries, he embarked for <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and was entertained by a Florentine Merchant; who together with all the Family, being falſely accuſed of the Murther of a Knight of the King's Court, was with the rest condemned to die; and by what means he on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y eſcaped and went for <hi>France.</hi>
+                  </p>
+               </argument>
+               <figure>
+                  <figDesc>woodcut of Fortunatus and others being led to the gallows</figDesc>
+               </figure>
+               <p>
+                  <hi>FOrtunatus</hi> getting away in manner aforeſaid, was reſolved to fol<g ref="char:EOLhyphen"/>low Fortune; and ſo, coming by divers ways to <hi>Callis,</hi> he got paſſage for <hi>England,</hi> where he fell into the Company of two <hi>Cyprus</hi> Merchants, and lived with them righteouſly, ſpending in Wine and upon Harlots, till his and their Stocks was utterly exhauſted; and be<g ref="char:EOLhyphen"/>ing in a poor condition (void of Succou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) his Miſtreſs, on whom he had ſpent his Pleaſure, thruſted him out of Doors, and refuſed to relieve him; as he wander'd about <hi>London,</hi> he was taken notice of by one <hi>Jerinomus Roberti,</hi> a Florentine Merchant, who examin<g ref="char:EOLhyphen"/>ing him, found he was of a prompt Wit and Education, and therefore
+<pb facs="tcp:153134:4"/> agreed with him to come into his Service, which he joyfully accepted and being acquainted with the Cuſtoms of Merchants, was ſo dili<g ref="char:EOLhyphen"/>gent (and ſo well behaved himſelf) that he got the good Eſteem, not only of his Maſter, but of all the Servants, who entirely loved him: But ſoon after a great Calamity befel the Family, by means of a Vil<g ref="char:EOLhyphen"/>lain, which coſt all, but <hi>Fortunatus,</hi> their Lives, and he very narrow<g ref="char:EOLhyphen"/>ly eſcaped; for one <hi>Andrew,</hi> a young Spend-thrift Florentine, having been ſent by his Father, to ſell a Cargo of Goods, not only <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aviſhed away all the Money he had for them, but continued to draw Bills up<g ref="char:EOLhyphen"/>on the old Man, with promiſes of large returns, till he had near ru<g ref="char:EOLhyphen"/>ined him before he had diſcover'd the Cheat; at what time being put to his ſhifts, he left <hi>England,</hi> and went for <hi>Bruges,</hi> where hearing of an Engliſh Merchant who lay in Irons in a noiſome Dungeon, for forging the King of <hi>England</hi>'s Paſs-port, he went to viſit him. The Merchant no ſooner knew he cam from <hi>England,</hi> but he was ex<g ref="char:EOLhyphen"/>ceeding glad, enquiring what News, and the Welfare of his Friend<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, all which he told him as well as he underſtood: The Merchant ſaid, <hi>You ſee what in <gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſer able condition I lie here, if you would return to</hi> England, <hi>and acquaint my Friends with it, I make no doubt but they will uſe their Purſes, and Interest at Court to releaſe me.</hi> To be brief, he promiſed to do it up<g ref="char:EOLhyphen"/>on conſideration of three hundred Crowns, and ſo took the Names of thoſe Friends he propoſed, and Mony for his paſſage.</p>
+               <p>Now among this Merchant's Friends, was <hi>Roberti, Fortunatus</hi>'s Maſter, by which means this wicked Florentine came acquainted with him to his ruin; for having propoſed to lay down three hundred Crowns for the Merchant's Ranſom, if any others would come in for Part-Security, <hi>Andrew</hi> at laſt told him, he had found a Gentleman of a great Eſtate that would do it, and that he ſhould provide a Dinner, and he would bring him; this being agreed to, he went to a Knight of the Court, whom the King had employed to get the richeſt Jewels that might be had, to make a Preſent to his Siſter, who was to be married to the Duke of <hi>Burgundy,</hi> telling him there was a Jeweller of <hi>Florence,</hi> who hearing of the King's Enquiry after Rarities, was come over with ſuch, that the like had never been ſeen in the Nation, and ſo invited him to come and ſee 'em at <hi>Roberti</hi>'s, where he ſaid, he lodged, deſiring him to bring his own with him, that they might compare them. The Knight little dreaming of the Treachery de<g ref="char:EOLhyphen"/>ſigned, promiſed ſo to do, and accordingly came, when after Dinner having him into a private Chamber he ſtabbed him, but for what reaſon we knew not, for he had not brought the Jewels with him, whereupon he took his Keys and his Signet, and ran to his Houſe,
+<pb facs="tcp:153134:4"/> delivering them to his Wife as a Token to give him the Jewels, for the King was to ſend them away; upon ſearch ſhe could <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind none, nor were they found for ſome time after; ſo that the Murtherer, fruſtrated of his expected Prize, came to <hi>Roberti</hi>'s again, where the Murther was diſcover'd by the dropping of the Blood through the Cei<g ref="char:EOLhyphen"/>ling, but he laboured to calm their O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teries, by ſaying, The Murther<g ref="char:EOLhyphen"/>ed was a meer Cut-throat, and deſigned to have killed him for this Mony; however, he would rid them of the Body: and ſo taking it on his Shoulder, he threw it into a Privy, and fled by a Back-way for fear of being apprehended.</p>
+               <p>The Knight being miſſing, great enquiry was made; this Mer<g ref="char:EOLhyphen"/>chant's Houſe, where they had Intelligence, he went, was ſearched, but nothing found, till being about to depart, one cryed, <hi>Come, let's ſee in the Privy, we have not ſearched that yet:</hi> And there, by throw<g ref="char:EOLhyphen"/>ing in a lighted Paper, they ſaw the Murthered's heels ſtanding up<g ref="char:EOLhyphen"/>right. The King being certified of this, the Merchant and his Ser<g ref="char:EOLhyphen"/>vants were examined by Tortures, all of them confeſſing what they knew of the Mu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther, but <hi>Fortunatus,</hi> whom they had kept ignorant of it, he being then abroad: But of the Jewels they could tell nothing, ſo that hereupon they were condemned to be hanged; and of ſeven, only <hi>Fortunatus</hi> eſcaped, at the Gallows, by the others proteſting his Innocence in the Matter. About half a Year after, the Widow of the Knight being adviſed to think of a young Lover, and remove her Bed into another Room, to put her out of her Melancholy, putting the latter in practice, found a little Cabinet under it, and in it the Jewels; which, by the Advice of a Kinſman, ſhe carried to the King, who, for her Fidelity, gave her the Mannor of <hi>Woodſtock,</hi> and cauſ<g ref="char:EOLhyphen"/>ed a young Knight to marry her, ſettling a thouſand Pounds a Year up<g ref="char:EOLhyphen"/>on them during their Lives.</p>
+               <p>
+                  <hi>Fortunatus</hi> having loſt his Maſter, and happily 'ſcap'd the Gallows, grew ſo fearful of ſuch another bout, that he reſolved to ſtay no longer in <hi>England,</hi> but getting on board, ſoon ſailed over to <hi>France.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:153134:5"/>
+               <head>Chp. II.</head>
+               <argument>
+                  <p>How, travelling from <hi>Orleance</hi> to <hi>Paris,</hi> he met with Dame <hi>For<g ref="char:EOLhyphen"/>tune,</hi> who gave him a Purſe of ſuch a Virtue that whenever he put his Hand into it, he drew out ten Angels of Gold, entailing it upon him and his Sons. Of the noble Entertainment he had afterwards. How he was impriſoned by Duke <hi>Rodolphus,</hi> and ſuſpected as a Robber for his great Profuſeneſs; and upon what Terms he gained his Liberty.</p>
+               </argument>
+               <figure>
+                  <figDesc>woodcut of hounds chasing a stag through a dinner scene</figDesc>
+               </figure>
+               <p>
+                  <hi>FOrtunatus</hi> being freed from another Danger, left the City, and reſolved to go for <hi>Paris;</hi> when paſſing thro' a great Wood, and being at a loſs which way to go, as he gazed about, he ſaw a comely Shape, in Woman's Apparel, croſſing his way, and coming up to him, he demanded who ſhe was, and her Buſineſs in that Deſart: <hi>My Name,</hi> reply'd ſhe, <hi>is</hi> Fortune; <hi>and here am I placeſed by the Great Diſtributed and Diſpoſer of all the things, by whoſe command I have Power to give ſix Things to ſuch as ſtand in need of them; for but one of them can, by my means, fall to any one Man's ſhare: Be prudent in your Choice, for you may not chuſe again.</hi> He now ſuppoſed he had found his good Angel, which made him greatly rejoyce, and re<g ref="char:EOLhyphen"/>flecting on his former Poverty, he choſe Riches, ſaying, <hi>Give me ſo much that I may never be poor again,</hi> ſo he well knew what Power Money had in the World, it anſwering all things, as, make a Knave paſs for an honeſt Man, a Fool for a Wit, a Dowdy for a Beauty, a Coward for a valiant Man, upon this ſhe gave him a Purſe curiouſly wrought in Needle-work, with various Figures of Providence workt
+<pb facs="tcp:153134:5"/> thereon in Silk, Gold and Pearl, ſaying, <hi>Take this Purſe, and be thankful for it to Almighty God; for in whatſoever Land thou art, put thy Hand into it, and you ſhall as often as you do ſo, draw out ten Angels of Gold of that Country Coin.</hi> For this he gave her a thouſand Thanks, leaping for Joy to which ſhe rep<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <hi>Direct them to the Divine Giver of all things; I am but the Hand to diſtri<g ref="char:EOLhyphen"/>bute them as he Directs: For</hi> continued ſhe, <hi>I neither ſee, nor have regard to the Perſons on whom I beſtow them, but am always Hood<g ref="char:EOLhyphen"/>wink'd as you ſee, therefore had Wiſdom been your P<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ion, ſhe would have taught you better.</hi> Upon this <hi>Fortunatus,</hi> bowing low, beg<g ref="char:EOLhyphen"/>ged her Pardon: Then ſhe bid him not be proud, but always cha<g ref="char:EOLhyphen"/>ritable and curteous to the Poor; and then the Virtue of the Purſe ſhould hold to him and his Children, and no longer; then directing him out of the Wood, ſhe vaniſhed from his ſight; which made him greatly wonder, and ſcarcely believe but it was a Viſion, and nothing of Reality in it, till coming to an Inn, he tried the Experiment, and found it to be otherwiſe: But his Garments were ſo poor, that the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, till he ſaw his Money, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to let him have either Vi<g ref="char:EOLhyphen"/>ctuals or Drink, but ſeeing him draw out Gold ſo faſt, he began to be ſweet upon him, made him a Fire, carried him into the beſt Room, ordering his Daughter diligently to attend him; the beſt in the Houſe being at his Service; ſo that he ſtaid there all Night: And ſeeing a curious imbroider'd <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for a Horſe, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e asked his Hoſt to whoſe Horſe it belong'd; <hi>To none,</hi> ſaid he, <hi>at preſent, for it is left here to be ſold.</hi> Upon which, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to beat it no longer upon the Hoof, ſince he had ſuch <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to buy a Horſe, bargained w<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> him for it for <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and the next Morning there being <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to a Village ten Miles furthe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtood on a Hill, here he put i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> know if there were any good Horſes to <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt told him there was a Merchant ne<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y arrived, <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> very ſtately ones out of <hi>Barbary,</hi> which he <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> at the Feaſt that was to be held there upon the Duke of <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, which ſuddenly was to commence: Upon this he deſired <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>; the Ho<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſeeing him ſo meanly clad, inwardly laughed, knowing the Horſes were of great Price, yet, ſeeing ſome Money, to humour his Gueſt, he went with him, and agreeing, contrary to his expectation, he payed 3 hundred Crowns for them, and brought them to the Inn, then he ſuppoſed him to be ſome noble Man in diſguiſe, eſpecially when he asked him for to help him to two Servants, he deſigning to keep them to attend
+<pb facs="tcp:153134:6"/> him. But long they had not paſſed away the time merrily before Duke <hi>Redolphus,</hi> who had bid Money for the Horſes, ſent for them at the Merchant's Price, they having differed before; but when he un<g ref="char:EOLhyphen"/>derſtood they were ſold, he ſtormed grievouſly, and ſent to know who it was that durſt buy them out of his Hands: The Hoſt told the Meſſen<g ref="char:EOLhyphen"/>ger, It was a Stranger in plain Habit newly come, which he at firſt, did not think was capable of purchaſing an Aſs. Whereupon he ſent to apprehend him, ſuſpecting he had committed ſome Robbery; and notwithſtanding all his Excuſes he could make, ſent him to Pri<g ref="char:EOLhyphen"/>ſon, and compelled him, e're he could be delivered from the Miſery he ſuffered there, to deliver the Horſes up to him, to pay three hundred Crowns as a Fine ſet upon him, and ob<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ged to depart his Terri<g ref="char:EOLhyphen"/>tories, with an Oath, never to diſcover what paſſed between 'em.</p>
+               <p>Upon this hard Hap, he went to <hi>Anguries,</hi> a conſiderable City in that Province, and there appeared very ſplendid at the Duke of <hi>Saxo<g ref="char:EOLhyphen"/>ny</hi>'s wedding; buying him Horſes, and getting him Seravnts with an extraordinary Equipage, ſo that he paſt for a Noble Man, taking up the beſt Inn, keeping Company, and equally ſpending with the Nobili<g ref="char:EOLhyphen"/>ty and Gentry of the beſt Rank, who mightily eſteemed him.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Chap. IV.</head>
+               <argument>
+                  <p>How <hi>Fortunatus</hi> took Acquaintance with an Iriſh Man; how they travelled into Ireland, view'd St. <hi>Patrick</hi>'s Purgatory; how they travelled to <hi>Rome,</hi> and other Places.</p>
+               </argument>
+               <figure/>
+               <p>
+                  <hi>FOrtunatus</hi> being at the Duke's Wedding, where were many Prin<g ref="char:EOLhyphen"/>ces, Earls and Lords, in the height of their Jollity, which was ve<g ref="char:EOLhyphen"/>ry ſplendid, divers Muſicians came in to entertain 'em, and amongſt
+<pb facs="tcp:153134:6"/> others, one <hi>Leopold,</hi> an Iriſh Man; they all ſaid, They'd been Gentle<g ref="char:EOLhyphen"/>men bred, and great Travellers, but having ſpent their Fortunes, were reduced to that Employ; whereupon they gave them plentifully: And an Earl asked <hi>Leopold,</hi> if he would be content to live with him, and be Tutor to his Children: But he <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it, ſaying, <hi>I have left my Wife and Children many Years, and am now deſirousto ſee them; and in Order to it am returning to my own Country. Fortunatus</hi> ob<g ref="char:EOLhyphen"/>ſerving the Carriage and Behaviour of the Man, when Dinner was ended, ſent for him, and contracted a ſtrict friendſhip with him, plen<g ref="char:EOLhyphen"/>tifully <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Neceſſities, and promiſed to go with him into <hi>Ire<g ref="char:EOLhyphen"/>land<g ref="char:punc">▪</g>
+                  </hi> provided he would travel afterwards; ſo paſſing through <hi>France England</hi> and <hi>Scotland,</hi> ſeeing many Rarities by the Way, they came to <hi>Ireland,</hi> but <hi>Leopold,</hi> through his long Abſence, was unknown to his Wife and Children, till he made them ſenſible who he was by ma<g ref="char:EOLhyphen"/>ny Tokens they had kept in Memory, then they receiv'd him with Joy: And <hi>Fortunatus</hi> gave an Entertainment to the whole Town of <hi>Wal<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> After this they went to viſit St. <hi>Patrick</hi>'s Purgatory, with other Rarities of the Country, in which deſcending too far into the Labyrinths, they were loſt for three Days, hearing diſmal Cries, meeting with ſtrong Winds and hot Flaſhes of Fire, at laſt, falling to their Prayers, an old Man, for the Promiſe of an hundred Crowns, which th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Servants offered him in their Maſter's Name, who knew the Place, went in with his Pipe, found and brought them out, when all thought they had been dead, or paſt recovery; and the Prieſts were praying for their Souls; for which good Deed <hi>Fortunatus</hi> gave the Man two hundred Crowns; largely preſented the Abbot and Monks that kept the Chappel built on the Place, and ſo departed. Being now again reſolved to travel, he perſwaded <hi>Leopold</hi> to go along with him, which he conſented to, on Condition of leaving his Wife and Children a Competency to live on; which he did, by purchaſing thirty Pounds a Year, and leaving them a thouſand Crowns. So they ſailed over to <hi>France,</hi> and paſſed through divers Countries, till they came to <hi>Rome;</hi> and having ſufficiently view'd that Ancient City, with the Splendor of the Biſhop's Court, they paſſed from thence to <hi>Venice;</hi> and, up<g ref="char:EOLhyphen"/>on Notice, by a <hi>Venetian</hi> Merchant, of great Shows of Magnifi<g ref="char:EOLhyphen"/>cence to be at <hi>Conſtantinople,</hi> upon the Emperor's Crowning his Son in his ſtead, being weary of the Government by reaſon of his Age; they agreed with that Merchant to convey them and their Equipage thi<g ref="char:EOLhyphen"/>ther; which he performed, and coming to that renowned City, one of the faireſt in the World, they ſo dealt with the great Officers for Money, that they had a full ſight of the Court, and all that was rare in it.</p>
+               <pb facs="tcp:153134:7"/>
+               <p>Th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> City, by reaſon of the great Concourſe, being full of Per<g ref="char:EOLhyphen"/>ſons of Quality of divers Nations, they could not hire a Houſe, and therefore were conſtra<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d to take up in a Publick Inn, where there Hoſt ſeeing them full of <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and being of a thieviſh Nature, re<g ref="char:EOLhyphen"/>ſolved to have ſo me part with them; ſo that after they had been there a while, he co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ived that there Wax-tapers, which they burnt in the Night, might go out, by boring holes to the Wick, filling them with Water, and ſtopping them up again; then came he in at a private Door, when he knew they were aſleep, and took all he could <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, which was about fifty Crowns, he p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Hand but once into <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Purſe, not knowing the Virtue of it; yet having cut the Strings by which it hung to his Girdle, he threw it under the Bed, and ſo went out, leaving the Doors and VVindows open.</p>
+               <p>In the Morning when they awaked, they were in a ſad taking, not ſo much for the Money they loſt, as for the Purſe; whereupon the Hoſt hearing them make a Noiſe, came up, and excu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the matter, in their being careleſs of ſhutting the Doors and VVindows, when ſo many Strangers were in the City: But the Servants proteſted <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey had ſhut them. And the Hoſt hearing <hi>Fortunatus</hi> complain more for the Purſe, where he pretende<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bill of Exchange for <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thouſand pound, then for the Money: <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Villain, who <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well enough where it was, bid them look about, ſaying, <hi>Few <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> regarded a Purſe or Bill, for they cannot perhaps receive it;</hi> and ſo helping them to ſearch, he had no ſooner re<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oved the Bed, but, to the great Joy of <hi>Fortunaetus,</hi> the Purſe appeared Then privately try<g ref="char:EOLhyphen"/>ing, and finding it had not loſt its Vertue, tho the Strings were cut, remembring he had made a Vow to give once a Year a Portion in Mar<g ref="char:EOLhyphen"/>riage with a poor Virgin of a vertuous Life and Converſation, he de<g ref="char:EOLhyphen"/>ſired his Hoſt to ſeek out ſuch a one; which he did, and on her he be<g ref="char:EOLhyphen"/>ſtowed four hundred Crowns; diſpoſing of her <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an honeſt young Man who was in love with her for her Beauty and Virtue, but declined to marry her for want of Riches, leſt his Father ſhould diſinherit him.</p>
+               <p>The Hoſt ſeeing his Liberality, reſolved to have the <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bout at their Purſe, going in as before; but by his <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Mo<g ref="char:EOLhyphen"/>ney, <hi>Leopold</hi> awaked, and having his Sword drawn by him, ſteuck at a venture, and gave hsm ſuch a Cut in the Neck, that h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fell with a diſmal Groan, which waked <hi>Fortunatus,</hi> and his Servants, who ſtri<g ref="char:EOLhyphen"/>king a Light, found their Hoſt weltering in his Blood; whereat <hi>For<g ref="char:EOLhyphen"/>tanatus</hi> was much abaſhed, remembring the former Miſeries he un, der went on the like occaſions, and thinking little to be believed what<g ref="char:EOLhyphen"/>ever he ſaid in his Juſtification, eſpecially in a ſtrange place: So they
+<pb facs="tcp:153134:7"/> laid their Heads together, and concluded not to ſtand the Teſt; but ordering two of the Servants to convey him privately into a Well in the Back-yard, they payed their Reckoning in the Morning, pretend<g ref="char:EOLhyphen"/>ing urgent Buſineſs upon reading a Letter one of the Servants pre<g ref="char:EOLhyphen"/>ſented his Maſter, they poſted away with all ſpeed, and paſſed th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o' ma<g ref="char:EOLhyphen"/>ny Countries before they thought 'emſelves ſafe from Purſuit: But at length they arrived at <hi>Venice,</hi> where <hi>Fortunatus</hi> bought up a great mony rich Jewels<g ref="char:punc">▪</g> Imbroideries, Fringes, <hi>&amp;c.</hi> and being deſirous to ſee his Parents, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from thence to <hi>Cyprus;</hi> upon his arrival he found his Father and Mother dead; thro' Sorrow for their great Po<g ref="char:EOLhyphen"/>verty, which much grieved him; yet that he might not be wanting in what lay in his power; he built a ſtately Monument over their Graves, with this Epitaph:</p>
+               <lg>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nder this Marble, lies a noble Pair,</hi>
+                  </l>
+                  <l>Theodorius <hi>and</hi> Gratiana <hi>fair;</hi>
+                  </l>
+                  <l>
+                     <hi>Who unto</hi> Fortunatus <hi>did give Birth,</hi>
+                  </l>
+                  <l>
+                     <hi>And then exchang'd for Heavenly Joys their Earth:</hi>
+                  </l>
+                  <l>
+                     <hi>Yet mourn their Loſs, as I their only Son,</hi>
+                  </l>
+                  <l>
+                     <hi>With many Tears and <gap reason="illegible" resp="#APEX" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> often done.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>Fortunatus</hi> thinking now <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Co<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>try, built him a noble Houſe at <hi>Fa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>agoſta,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> adorned, that the like was not in the Iſland. He made ſplendid Entertainments for the King and Queen, who highly favoured him, and wonder'd whence he ſhould be Maſter of ſo great a Treaſure: But he kept that as a Secret. At laſt the King adviſed him to Marry, in order to keep up a Family, that was ſo ancient, and had been ſo honourable in the Country; and pro<g ref="char:EOLhyphen"/>poſed to him his choice of the three fair Daughters of the Lord <hi>Neniva;</hi> upon which, having ſeen and diſcours'd them; after having conſulted <hi>Leopold,</hi> he choſe the youngeſt, named <hi>Caſſandra,</hi> purchaſing a Lord<g ref="char:EOLhyphen"/>ſhip to ſettle for her Joynture; becauſe the Counteſs, her Mother, fearing he might ſpend what he had, as his Father had done, would not be pleaſed without: The VVedding was kept fourteen Days with great ſplendor; the King, Queen, Nobles, and all of any note in the Iſland, being entertained: Jeſts were held for many Days, in which himſelf always carried away the Prize. Then he gave very liberal to the Poor, and gained good Report in all Places; and the firſt Year of this happy Marriage his beauteous <hi>Caſſandra</hi> brought him a Son, whom he named <hi>Ampe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o,</hi> and the next Year another, whom he named <hi>Andolacia,</hi> at whoſe Chriſtenings was great Feaſt<g ref="char:EOLhyphen"/>ing and Rejoycing, the Queen ſtanding for God-mother, and the King and the Earl of <hi>N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>monia</hi> for God-fathers.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb facs="tcp:153134:8"/>
+               <head>Chap. V.</head>
+               <argument>
+                  <p>How <hi>Leopold</hi> died; and how <hi>Fortunatus</hi> was bent to travel again which he did in <hi>Aegypt, Perſia, India,</hi> &amp;c. as a Merchant, and the various Advent<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t withal; How he deceived the Soldian of Aegypt, of his Wiſhing C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p, and returning home died, leaving <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ric<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s to his two Sons, and ſoon after died his loving Wife.</p>
+               </argument>
+               <figure/>
+               <p>
+                  <hi>FOrtunatus</hi> altering his former Reſolutions, now began to think of travelling into other Countries where he had not been (his former being moſtly in <hi>Europe</hi>) and therefore reading of many Rarit<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in other Parts of the VVorld, he reſolved to have a Sight of them; but whilſt he was preparing for it, <hi>Leopold</hi> died; yet, upon the Arrival of his Wife and Children, wh<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he had ſent for, <hi>Fortunatus</hi> ſettled them in the Country, and plentifully provided for them; he likewiſe buried him in a decent manner, in the Chancel of a new Church, he had built at his own Coſt; but when he imparted his Deſign of Tra<g ref="char:EOLhyphen"/>velling to his dear <hi>Caſſandra,</hi> ſhe was ſo grieved that ſhe could not contain herſelf within the Bounds of Moderation, but burſhing into a Flood of Tears, and hanging about his Neck, humbly beſought him not to bereave her o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the greateſt Comfort of her Life; but, if ſhe had done any thing to occaſion his withdrawing from her Preſence, ſhe entreated him to tell her it, and ſhe would not only beg Pardon, but for the future make it her Study to avoid doing any thing that might offend him: But gently embracing her tender Body, he told her, ſhe had be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the beſt and lovingeſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wife to him in the VVorld; but that his Fancy led him not to lie <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing at home, but to accompliſh himſelf
+<pb facs="tcp:153134:8"/> in Knowledge by ſeeing ſtrange <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and that ſhe need not fear but he would always have her in Remembrance, and his Children, thoſe dear Pledges of their Nuptial-love, would ſoon bring him back again; whereupon, hearing theſe, and many other Reaſons that overcame the thoughts of the dangers ſhe objected, her Conſent, though with ſome Reluctancy, was obtained, upon Promiſe he would return within a Year; and ſo, leaving her, beſides his Eſtate, ten thouſand Crowns in ready Mony, in a Ship he had hired for his own Uſe, he departed, reſolving to turn Merchant as well as Traveller.</p>
+               <p>The firſt Port he touched at, was <hi>Alexandria</hi> in <hi>Aegypt;</hi> where, as the Cuſtom was, he immediately went to make a Preſent to the Soldian, which he did in<g ref="char:punc">▪</g> ſuch rich Jewels, that, that mighty Prince admir'd at it, and thereupon entertain'd him very nobly, ſending him in Requstal very rich Merchandize, and left him a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Liberty to traffick in things of <hi>Aegypt,</hi> above the Liberty granted to o<g ref="char:EOLhyphen"/>ther Merchants, inviting him in a ſhort ſpace after to Dinner, and gave a Charge concerning his Freedom and Entertainment in all Pla<g ref="char:EOLhyphen"/>ces, ſo that having richly fraited his Ship, he ſent it by the Maſter to <hi>Cyprus,</hi> conſigned to the Uſe of his Wife and Children, reſolving with ten Servants to travel over the Land; and ſo taking his leave of the Soldan, who gave him Letters of ſafe Conduct, directed to di<g ref="char:EOLhyphen"/>ver<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Princes: He reſolved to paſs over the Deſerts of <hi>Ara<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ia</hi> and <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſia,</hi> and ſo to <hi>India,</hi> ta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing <hi>Tartary</hi> in his Way, where he had a View of the great <hi>Cham's</hi> Court at <hi>Ca<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ia,</hi> but the People being barbarous and unciviliz'd in moſt Parts of<g ref="char:punc">▪</g> that Country, he ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n left it, and in his Way the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce through a vaſt Forreſt, that <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ds toward <hi>India,</hi> he ſl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w a<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſtrous Tygar, who had before deſtroyed many hundreds of People, and l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft the Way almoſt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>frequented by Paſſengers, which was ſeattered with the Skulls and Bones of thoſe that had been devoured. This Forreſt took up two Days and two Nights travel; and ſo paſſing through many Countries, he came to <hi>India,</hi> where the mighty Emperour <hi>Preſter John</hi> reigned, who, of all thoſe Coun<g ref="char:EOLhyphen"/>tries; was the only Chriſtian Prince, that Country being converted to<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Chriſtian Faith, by St. <hi>Thomas</hi> the Apoſtle; he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as under him ſixty two Kings, and is Lord of thirty Iſlands, beſides a <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Coun<g ref="char:EOLhyphen"/>try on the Continent; here he met an old H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmit, whom he plenti<g ref="char:EOLhyphen"/>fully relieved, and would have had him ſhewed him the Country, but he told him, He was bound under a Vow for the <hi>Holy Land;</hi> yet, he gave him an Account of the M<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ners and Cuſtoms of it; ſo they part<g ref="char:EOLhyphen"/>ed, and though here Strangers were forbid to enter the Palace with<g ref="char:EOLhyphen"/>out the Emperour's Leave; but <hi>Fortunatus</hi> knowing that Gold was a
+<pb facs="tcp:153134:9"/> free Paſs-port in all place<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by that means got Admittance and beheld ſuch Riches, that the like he had never <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r the Walls were plated wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fine Silver, whereon was engraven the Stories of Knights; and Battles of former Emperours; ſome Rooms were hung with Panthers Skins, caſting a fragrant Smell; the Pillars that ſup<g ref="char:EOLhyphen"/>ported the Roof, were Cedar, overlaid with Gold, and imboſſed with precious Stones, as Diamonds, Rubies, <hi>&amp;c. Fortunatus</hi> having ſeen all he could, obtained leave of the Emperour to depart with thirty Cammels laden with the richeſt Goods of the Country, having appointed his Ship-maſter to meet at <hi>Alexandria.</hi>
+               </p>
+               <p>The Sold<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an having notice of his arrival in <hi>Aegypt,</hi> ſent divers of his Officers to meet, and Welcome him in his <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; whom <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or<g ref="char:EOLhyphen"/>tunatus</hi> preſented with Jewels, Odours and Spices, and the Soldian with many Rarities: So unlading his Cammels, he <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ipped all his Goods, and remembring his Promiſe to his beloved <hi>Caſſandra,</hi> he or<g ref="char:EOLhyphen"/>der'd them to weigh Anchor, reſolving to ſail, but the Soldian deſired him to partake of a Banquet, before he went: After which, he would needs ſhow him his Rarities in his Jewel-houſe, which <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch, as were hardly to be found in the World: But, whilſt <hi>Fortunatu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was admiring their Richneſs, the Soldian unlocked a Cabinet of Gold, and pulled out of it an old Hat, (to all appearance) ſaying, <hi>It was a Jewel he Eſteemed above all the others, or any thing he had in the World, for</hi> (continued he) <hi>it has that ſecret Virtue in it, giv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n by a great Mag<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, long ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce Dead, that put i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pon your Head, and wiſh to be where you will, you ſhall be immediately carried thither Inviſibly.</hi> This made <hi>Fortunatus</hi> wonder, and at the ſame time in<g ref="char:EOLhyphen"/>wardly ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il'd, to think, if it were true, he ſhould be ſo weak, as to reveal ſo Important a Secret to a Stranger: And from that mom<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t began to conclude, if he had this, to joyn with his P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſe, they would be the two greateſt Advantages in the World: whereupon, having it in his Hand, he clapt it on his Head, and making to the Window he wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed himſelf on board his Ship, and immediately he flew out of the Window, as ſwift as Lightning, and to the Amazement of the Sailors, lighted on the Deck, without any harm: Immediately he commanded them to make all the ſail they could, which they did with ſuch ſpeed, that though they were purſued, they ſafely reached the Iſle of <hi>Cyprus.</hi>
+               </p>
+               <p>The mean while the Soldian fretted and ſtormed exceedingly at his Loſs (occaſioned by his Folly) and ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to a Venetian Merchant, to per<g ref="char:EOLhyphen"/>ſwade <hi>Fortunatus</hi> to reſtore his Wiſhing-hat, which he refuſed, then, according to his Orders, he complained of the Injury done to
+<pb facs="tcp:153134:9"/> the King of <hi>Cyprus.</hi> But he, loving <hi>Fortunatus,</hi> and ſiding with him. War was deno<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ced; but whilſt the Preparations were making, the So<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dan, of Ag<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and Grief for his Loſs, died; and his Son being given to Pleaſure, thoſe Military Preparations were laid aſide.</p>
+               <p>
+                  <hi>Fortunatus</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving liv'd long in Pleaſure and Plenty, his two Sons being grow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Mens Eſtate, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fell ſick, and calling them to him, beſtowed his Riches on them, revealing to them the Vertues of the Purſe and Wiſhing-cap, how he came by them, and how the firſt was only for their Lives; ſo deſiring them to live lovingly together, and not to part them, or ever diſcover the Vertues of them, but uſe them by Turns, in a moſt devout manner, recommending his Soul into the Hands of his Maker, he gave up the Ghoſt; and ſoon after <hi>Caſſandra.</hi> through exceeding Grief, falling ſick of a Fever, died, and both were buried in a ſtately Tomb he had cauſed to be built in his Life time<g ref="char:punc">▪</g> in the Chancel of the new Church he had erected: having left bountiful<g ref="char:EOLhyphen"/>ly to the Poor, and for other charitable Uſes.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>Chap. VI.</head>
+               <argument>
+                  <p>How <hi>Andolocia,</hi> the youngeſt Son got the Purſe from <hi>Ampedo,</hi> his Brother, and travelled into <hi>France, Spain<g ref="char:punc">▪</g> England,</hi> &amp;c. How fal<g ref="char:EOLhyphen"/>ling in Love with <hi>Agrippina,</hi> the King's fair Daughter, he revealed to her the Secrets of his Purſe; and how ſhe got it from him; whereupon re<g ref="char:EOLhyphen"/>turning to <hi>Cyprus,</hi> he got (by a Trick) the Wiſhing cap.</p>
+               </argument>
+               <figure/>
+               <p>
+                  <hi>FOrtunatus</hi> and his dear Conſort were no ſooner laid in their cold Tombs, but <hi>Andolocia,</hi> the youngeſt Son, being of a rambling Diſpoſition, incited thereto by the Relations he had from his Father,
+<pb facs="tcp:153134:10"/> agreed with his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lder Brother, though with much ado to gain his Con<g ref="char:EOLhyphen"/>ſent, That four Coffers ſhould be fill'd with Gold out of the Purſe; that he ſhould have the Wiſhing-cap, and all the viſible Eſtate, and he only the Purſe to bear him Company in his Travels: So, ſetting forward he came to the Court of <hi>France,</hi> held then at <hi>Paris,</hi> the chief City of that Kingdom; and here he appeared ſo ſplendid in his E<g ref="char:EOLhyphen"/>quipage, and ſo extravagent in his Expences, that he was wonder<g ref="char:EOLhyphen"/>ed at by all, who took him for ſome ſtrange Prince, and rather by reaſon of his Courage, for in the Juſts they were made for Entertain<g ref="char:EOLhyphen"/>ment, he unhorſed divers of the Nobility. And by his often being at a poor Courtier's Houſe, he fell deeply in Love with his beautiful young Wife, and ſo doated on her, that, finding her Coy, he tempted her with a thouſand Crowns for a Night's Lodging with her: But ſhe being Vertuous, refuſed it, and told her Husband of his lacivi<g ref="char:EOLhyphen"/>ous Importunities; who, though he liked not to be a Cuckold, long<g ref="char:EOLhyphen"/>ed for the Money: And ſo they laid their Heads together how to put a Cheat upon him: The Gentlewoman, for a hundred Crowns, get<g ref="char:EOLhyphen"/>ting a Neighbour's Wife to ſupply her Place, in the dark; ſo that when <hi>Adolocia</hi> thought he had all night embraced the moſt beautiful Creature living, he found by the Morning-light he had only a common Strumpet in his Arms; wherefore, vexed at, and much aſhamed of the Trick put upon him, he immediately left the City, and travelled for <hi>Spain,</hi> viewing all the Rarities of the Country, and at length ar<g ref="char:EOLhyphen"/>rived at <hi>Madrid,</hi> now the principal Place in that Kin<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m, where the King's Court was kept; there he found them <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ng for a War with <hi>Portugal;</hi> and he, never having ſeen <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Field, reſolving to take this Opportunity, <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and prof<g ref="char:EOLhyphen"/>fer'd the King his Service; who <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and made him a Knight, heſtowing on him rich Preſents <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to marry him to the Daughter of a Marqueſs, but he <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that, ſaying, He was bent on to Travel to ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſtrange Lands, and <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot diſpoſed to marry. The Wars ending, wherein he had done Wonders, to his high Praiſe and Renown, he took leave of that Court<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſailed for <hi>England,</hi> where in like manner he aſſiſted the King in his Wars with the Scots, behaving himſelf ſo bravely, that he was taken notice of a<g ref="char:EOLhyphen"/>bove all that fought in the Field, breaking through whole Squadrons, and putting all to the Rout before him; inſomuch, that after the Bat<g ref="char:EOLhyphen"/>tle was over, the King took him into eſpecial Favour, brought him to Court again<g ref="char:punc">▪</g> And, one Day entertaining him at Dinner, he was ſo ſmitten in Love with the fair Princeſs <hi>Aggrippina</hi> the King's Daughter, that he forgot to Eat, and feaſted his Eyes only on her,
+<pb facs="tcp:153134:10"/> inſomuch, that great Notice was taken of it: And from that time he went in the richeſt Apparel, that ſhe might the more eſteem him, and was foremoſt in all the Juſt and T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnaments: He likewiſe en<g ref="char:EOLhyphen"/>tertained the Queen and Princeſs at a ſplendid Dinner, and after<g ref="char:EOLhyphen"/>wards the King, giving very liberally to the Guards and Servants; ſo that they marvelled how he, having no viſible Eſtate, could live at ſuch a Rate; and were greatly deſirous to know what ſecret Mine he had to carry on his Grandure at ſuch a Height.</p>
+               <p>This, by the Advice of the King and Queen, the Princeſs under took to diſcover; which ſhe thought ſhe might the better do, becauſe ſhe perceived he was deeply in Love with her, and in a little time ſhe ſhewed him ſuch Kindneſs, that he was admitted to be in private with her in her Chamber, a Favour which none before had received; and there being no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e but they, he thought it was now his time to declare his Paſſion; which he did in ſuch obliging Terms that ſhe ſeem'd to be pleaſed with it; only ſaying, <hi>Your laviſh Expences, I fear will bring us both to Poverty, ſhould I marry with you.</hi> He told her that could not be, for his Treaſure, during his Life, was inexhauſtible, and cou'd not be waſted, ſpend what he would, <hi>Why then,</hi> ſays ſhe, <hi>you are certainly the Son of ſome great Prince? No,</hi> ſaid he, <hi>I am not the Son of a Prince, my Father is dead, his Eſtate was equal with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine, and never can be more or leſs. Well,</hi> replied ſhe, <hi>ſatisfie me in this Point, and then perhaps I may grant you my Favour. for if you love me truly, as you ſay you do, you will conceal nothing from me: Let me know (I ſay) from whence you have theſe great Riches? Ah!</hi> ſaid he, <hi>divineſt Lady, it was my dying Father's Command, not to diſcover it to any; yet ſo dearly I love you, that I can deny you nothing: No, if my Father's Ghoſt ſhould now riſe and for<g ref="char:EOLhyphen"/>bid it, ſo your Highneſs will be pleaſed to promiſe to keep it ſecret.</hi> To this ſhe obliged herſelf; and he, drunk with Love, thereupon ſhewed her his Purſe, told her how it was come by, and all the Secrets of it; letting her ſeeing it experimentally, by pulling out ſeveral Handfuls of Gold, which he preſented her with; telling her ſo he could do all Day long, and every Day as long as he liv'd. This made her inwardly rejoyce; and from that time plotted how to get it, which ſhe effected under the Colour of a Promiſe he ſhould lie with her before Marriage, if he would ſwear to be true to her, when ſhe had rendred up to him her Virgin-treaſure. But, whilſt he expected, with a multitude of Joy, the Frution of her delicate Body, ſhe contrived with her Woman, to give him Drugs in his Wine; and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drinking him luſtily, he fell faſt aſleep; then turning aſide his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he took his Purſe, and faſtned
+<pb facs="tcp:153134:11"/> another to his Girdle of the ſame likeneſs, but different in Vertue, ſo that waking in the Morning, and finding himſelf in a Chair, he be<g ref="char:EOLhyphen"/>gan to wonder what had befallen him: but juſt as he remembred his Aſſignation with <hi>Agrippina,</hi> in came her Woman, who told him, in a ſorrowful Tone, that the fair Princeſs going to Bed, and keeping awake in expectation of him, and he deceiving her ſhe was riſen very angry. This made him very blank and ſorrowful, that he had loſt an Opportunity he ſhould not reaſonably expect again; ſuppoſing it down by Necromancy, at the Inſtance of ſome of his Rivals, to diſappoint him of his Joys: and ſo ariſing, he went to his own Houſe, being a<g ref="char:EOLhyphen"/>ſhamed to ſee the Princeſs, as fearing her Reproaches: little dream<g ref="char:EOLhyphen"/>ing he had loſt his Treaſure.</p>
+               <p>By this time <hi>Agrippina</hi> had ſhew'd the Purſe to the King and Queen, and told them the Virtue of it: whereupon the King would have had it in his keeping, but the Queen told him, ſeeing the Princeſs had ſo fairly ventured for it, ſhe ought to keep it. And now they reſolved to put a Trick upon <hi>Andolocia:</hi> whereupon the King ſent to tell him, he deſigned to come with the Queen and Princeſs to Dine with him that Day: The Meſſenger had no ſooner delivered his Meſſuage, and was departed, hut he called his Steward, and bid him immedi<g ref="char:EOLhyphen"/>ately provide Proviſion: but he told him, in the laſt two Feaſts his Mony was all expended, and therefore he muſt have more. Where<g ref="char:EOLhyphen"/>upon <hi>Andolocia</hi> put his Hand readily into his Purſe, but found no<g ref="char:EOLhyphen"/>thing: when looking wiſhfully on it, he perceived it was changed. This made him look blank, not knowing for a time, what to ſay or do: <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he knew the Vertue of it was ſo rare, that thoſe who had it, would never part with it by fair means. And ſo, pretending his Brother was dead, he turned off all his Servants, ſold his Houſhold<g ref="char:EOLhyphen"/>furniture, and privately getting on Shipboard he ſail'd for <hi>Cyprus,</hi> telling his Brother <hi>Ampedo,</hi> the lamentable News of the Loſs of the Purſe; which greatly grieved him, and made him blame <hi>Andolo<g ref="char:EOLhyphen"/>cia</hi> for his Folly, and the Breach of his Father's laſt Commands: yet he relieved his Wants plentifully: But he as badly rewarded him, for having gotten what Treaſure he could, he deſired him to lend him his Wiſhing cap, but he a long time refuſed it, ſaying, That ſhould be is laſt Reſerved when all his Money was ſpent: and he doubted not, but when ſome great Prince ſhould come to know of its Vertue, but to get ten thouſand Pounds for it: and if he let him have it, he wou'd loſe it as fooliſhly as he had done the Purſe. To this he ſaid nothing, but one Day, deſiring to ſee it, the other Bro<g ref="char:EOLhyphen"/>ther obliged him ſo far, when having it in his Hand, he clapped it on
+<pb facs="tcp:153134:11"/> his Head, wiſhing himſelf at <hi>Venice,</hi> and he was immediately there; leaving him to repent his Folly in the Loſs of his Cap, as he had done his, in that of his Purſe: Being in this rich City, he found out di<g ref="char:EOLhyphen"/>vers Jews who were rich Jewellers, and cheapning divers of great Value, and graſping them faſt in his Hand, and wiſhing himſelf in <hi>England,</hi> he was immediately carried thro' the Air, to their great Admiration, who concluded him to be no leſs than the Devil, and rejoyced they had taken none of his Money, leſt he ſhould have come again, and fetcht away all their other Riches.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>Chap. VII.</head>
+               <argument>
+                  <p>How <hi>Andolocia</hi> came to <hi>England,</hi> having cheated certain Jews of rich Jewels; and counterfeiting a Merchant, carried away Agrippina, with the Purſe; how ſhe came home, both with that and his Wiſhing-cap: How he, having got Goat's Horns on his Head, by eating of certain Apples, they were taken off by a Hermit: How he cauſed Horns to grow upon <hi>Agripina</hi>'s Head, carried her away, and put her into a Nuunery, how he releaſed her from thence, ſhe being to marry the Prince of <hi>Cyprus.</hi> An Account of the Death of Andolo<g ref="char:EOLhyphen"/>cia, and his Brother, with the Diſcovery and Puniſhment of the Mur<g ref="char:EOLhyphen"/>therers.</p>
+               </argument>
+               <figure/>
+               <p>BEing in <hi>England,</hi> he diſguiſed himſelf in the Habit of an Italian Merchant; and going to Court, enquir'd for the Princeſs <hi>Agrip<g ref="char:EOLhyphen"/>pina:</hi> And being brought before her, he laid out his Jewels, and proffered her them to Sale, ſo that in a little time they agreed, now that which he looked for was the Purſe, out of which he ſuppoſed ſhe would take the Money, for he ſuſpected ſhe had it, and accordingly it ſucceeded: For going to a Coffer, and taking it out, he faſtned it to her
+<pb facs="tcp:153134:12"/> Girdle; when he having his Wiſhing cap on, claſped her in his Arms, and wiſhing himſelf in a wild Deſert, away they flew together over Sea and Land, till they came into a vaſt Wilderneſs, in <hi>Ireland,</hi> and there he ſet her down, faint and almoſt breathleſs, under a Tree, on which grew very curious Apples to ſee to; whereupon, caſting her Eyes upon them, ſhe intreated him to gather ſome of them to quench her Thirſt, for ſhe was almoſt ready to periſh with Drought: Where<g ref="char:EOLhyphen"/>upon he, ſtill loving her, tho' ſhe had ſerved him ſuch a ſlippery Trick, clapped, unadviſedly, his Cap on her Head to keep off the ſcorching Sun, as knowing ſhe knew not the Vertue of it; and ſo climbing up, fell to gathering; in the mean while ſhe ſat pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſive and ſad; and all on a ſudden wiſhing to God ſhe were out of that deſolate Place, and in her Father's Court, all on a ſudden, contrary to her Expectation, ſhe was carried away; leaving <hi>Andolocia</hi> to fret at his folly, and vex himſelf more than ever: So, wandring up and down, faint and weary, at length he ſat down by the Brook, and fell to eating of his Apples, when immediately a grievous Pain ſeiz'd his Head, ſo that he ſuppoſed them infectious, and began to fear his Life; but on the contrary a great Pair of Goat's Horns ſprung out of his Forehead, and then the Pain ceaſed: This made him wonder at himſelf, and ſtand amazed; but as he was ſad and penſive, an old Hermet came to him, and ſeeing him a Stranger and in <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> invited him to his Cave, and gave him ſuch <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had, which conſiſted of Nuts, wild Apples and Roots <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> proceeded from a pleaſant Brook hard by: But <hi>Andolocia</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſollicitous about his Horns, than any thing elſe, <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Hermet, that if he knew any way, he would uſe it to cure him, and he would give him ten Crowns, which was all the Money he had left; for <hi>Agrippina</hi> had carried away the Jewels as well as the Hat: But though he promiſed to cure him, yet he refuſed his Money, telling him, he had retired from the World, and the Vanities of it, and Money to him was uſeleſs; but going a<g ref="char:EOLhyphen"/>broad, he brought home ſix fair Apples, two of which <hi>Andolocia</hi> had no ſooner eaten, but his <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dropt off, which <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him greatly re<g ref="char:EOLhyphen"/>joyce: So the good old Man <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idding him give Glory to God, led him out of the Forreſt, and at the Edge of it they parted.</p>
+               <p>
+                  <hi>Andolocia</hi> having ſome of the Hornifying Apples, and likewiſe four of the contrary Quality, began to meditate Revenge on <hi>Agrippi<g ref="char:EOLhyphen"/>na;</hi> and ſo, coming with all ſpeed for <hi>England,</hi> he changed his Garb, and got an Opportunity to preſent them to her as Fruit grow<g ref="char:EOLhyphen"/>ing in the holy Garden of <hi>Jeruſalem,</hi> to reſtore decayed Beauty; and keep Health for ſeveral Years, make the Aged look Young, and
+<pb facs="tcp:153134:12"/> many other Wonders, but ſhe had no ſooner eat two of them, and finding a Drowſineſs, lying down to ſleep, and dreaming ſhe was turned into a Goat, but awaking, ſhe found a ſtrange Alteration, and going to her Glaſs; and ſeeing her Horns, affrighted, ſhe ſtart<g ref="char:EOLhyphen"/>led and ſhrieked out, whereupon her Ladies came about her, and were as much affrighted at the ſight as ſhe: but a grave Matron, who had been her Nurſe, adviſed them to be ſilent, to prevent the Diſgrace that might follow; till Phyſicians where conſulted, whoſe Skill might take them away; ſo ſhe kept cloſe in her Chamber, and the old Women was ſent to divers Doctors, but none of them would undertake it at the Penalty ſhe would impoſe on them, which was two thouſand Crowns, if ſhe revealed the Lady's Name, and they did not cure her. But as ſhe was coming back again very penſive, <hi>Ando<g ref="char:EOLhyphen"/>locia,</hi> in the Garb of a Phyſician. Met her, and told her, by her Sad<g ref="char:EOLhyphen"/>neſs, and coming from ſuch a Doctor's Houſe, he gueſſed ſhe had ſome dear Friend in danger of Life, or ſome other great Diſtreſs; which if ſhe would accept of his Service, as a Phyſician, he would not doubt, with the Bleſſing of God, to Cure.</p>
+               <p>The old Woman believing him, greatly rejoyced that ſhe had found him ſo opportunely: and telling him the whole matter, which he very well knew before, convey'd him to the Princeſs's Chamber privately at a Back-door, where he found her lying on her Bed very penſive: But ſhe was comforted, when he told her he was come to cure her: ſo he begun to make his Application and gave her ſo little of the Apple among the Drugs, that they only waſted by Degrees, then telling her he wanted ſome coſtly Drugs to make them come off by the Roo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and ſo ſhe ſhou'd be more beautiful than ever ſhe aroſe and went to her Coſ<g ref="char:EOLhyphen"/>fer: In the mean while ſearching about the Room, he found his Wiſh<g ref="char:EOLhyphen"/>ing cap careleſly thrown under the Bed; for ſhe knew not the Vertue, of it, but ſuppoſed the Devil had carried her backward and forward be<g ref="char:EOLhyphen"/>fore: By this time ſhe called him to her to receive the Mony; and he drawing her toward the Window, that he might, as he pretended the better diſcern it, drew his Hat from under his Coat, clapt it on his Head, grasp'd her in his Arms, and away he flew with her, Purſe and all. This caus'd great Wailing in the Court, and made the King and Queen repent ſhe had ever meddled with the Purſe, verily believing <hi>An<g ref="char:EOLhyphen"/>dolocia</hi> was a Conjurer. In this Airy Voyage ſhe was carried into <hi>Flanders,</hi> and ſet down in the Forreſt af <hi>Andevia,</hi> where preſenting him<g ref="char:EOLhyphen"/>ſelf to her in his true Shape, and with a ſte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Countenance reproaching her with Threachery and Inconſtancy; ſhe, bathing her lovely Face in Tears, fell on her knees, and begged his Pardon. Whereupon, tak<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:153134:13"/> pitty of her, at her requeſt he put into a Nunnery giving the Abbeſs two hundred Crowns for her Admittance, promiſing to fetch her ſo ſoon as he cou'd find a Remedy to take off her Horns; and ſo de<g ref="char:EOLhyphen"/>parted for <hi>Cyprus</hi> with his Hat and Purſe, the ſight of which greatly rejoyced <hi>Ampedo,</hi> to whom he told all the paſſage of his Travels: and ſo extolled the Beauty of <hi>Agrippina,</hi> that the Prince of <hi>Cyprus,</hi> enamour'd on bare Report, prevail'd with the King his Father to ſend an Ambaſſey, to deſire her in Marriage: whereupon <hi>Andolocia</hi> was ſolicited to free her from the Nunnery, which he did, taking off her Horns, and carrying her thro' the Air to <hi>London:</hi> and then returning again, Embaſſadors, with great Preſents; and the Prince's Picture, where ſent. And ſhe, remembring what <hi>Andolocia</hi> had ſaid of the Beau<g ref="char:EOLhyphen"/>ty and Vertue of that Prince, conſented, and ſo with a noble Train of Lords and Ladies they ſailed for <hi>Cyprus;</hi> where ſhe was royally recei<g ref="char:EOLhyphen"/>ved, and ſplendidly married: <hi>Andolocia</hi> making her Preſents of very rich Jewels, and winning the chief Prize in the luſts: whereupon the Princeſs, as a Signal of her Favour, crowned him with a Garland of Triumph. This made many of the Nobles envy him, eſpecially the Earls of <hi>Armandalia</hi> and <hi>Limehouſe,</hi> vow'd his Death, who had ſo much eclips'd their Honour: and ſo ſetting on him, and his ſix Men, as he paſſed through a Wood, they, and their hundred Attendants after a long Fight, killing his Men, took him Priſoner, for he had not with him his Wiſhing cap, and caſting him in a dark, and loathſome Dungeon, ſet him in the Stocks, and loaded him with Irons, to make him con<g ref="char:EOLhyphen"/>feſs whence he had thoſe vaſt Riches: which thro' Torment, he diſco<g ref="char:EOLhyphen"/>ver'd, and gave them his Purſe: which they having prov'd, thought 'em<g ref="char:EOLhyphen"/>ſelves not ſafe whilſt he was alive, becauſe they knew he could go thro' the Air, and ſo might 'ſcape, and they having offer'd the Jalors Mony to diſpatch him, and he refuſing, the Earl <hi>Armandalia</hi> ſtrangled him as he ſat in the Stocks: And <hi>Ampedo</hi> having in vain ſought for his Brother, and offer'd great Rewards for his Diſcovery, ſuppoſing him Dead, burnt his Wiſhing cap, and ſoon after (thro' Grief) dyed: at which time the Purſe loſt its Vertue, which made the Earls, who kept it by Turns, fall out, one charging the other to have changed it: and the Quarrel growing high, <hi>Limehouſe</hi> call'd the other Murtherer, and let<g ref="char:EOLhyphen"/>ing fall other Words, they were both apprehended, and being wrack<g ref="char:EOLhyphen"/>ed, confeſſed the Fact: for which they were broke on the Wheel.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153134:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
